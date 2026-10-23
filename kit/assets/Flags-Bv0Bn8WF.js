@@ -1,0 +1,7 @@
+import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{i as t,r as n}from"./react-P2mKXNl2.js";import{t as r}from"./jsx-runtime-DeHZSEgm.js";import{a as i,o as a,s as o}from"./blocks-BkAnc3Iv.js";import{n as s,t as c}from"./FlagGrid-CxwqQ5w-.js";function l(e){let n={code:`code`,h1:`h1`,p:`p`,...t(),...e.components};return(0,d.jsxs)(d.Fragment,{children:[(0,d.jsx)(i,{title:`Foundations/Flags`}),`
+`,(0,d.jsx)(n.h1,{id:`flags-and-teams`,children:`Flags and teams`}),`
+`,(0,d.jsx)(n.p,{children:`Teams are their round flags, from circle-flags (MIT), never emoji flags, which Windows doesn't draw. A team is written
+as its flag, then its name; the flag then needs no alt text. Players will get a shirt badge in their kit's colours,
+with their number. Northern Ireland's flag is left open until it matters.`}),`
+`,(0,d.jsx)(a,{children:(0,d.jsx)(c,{})}),`
+`,(0,d.jsxs)(n.p,{children:[(0,d.jsx)(n.code,{children:`<Flag code="gb-sct" size={24} />`}),` takes circle-flags' code; an unknown code draws an empty circle.`]})]})}function u(e={}){let{wrapper:n}={...t(),...e.components};return n?(0,d.jsx)(n,{...e,children:(0,d.jsx)(l,{...e})}):l(e)}var d;function f(){return(f=e((()=>{d=r(),n(),o(),s()})))()}f();export{u as default};

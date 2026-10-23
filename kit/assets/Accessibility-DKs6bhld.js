@@ -1,0 +1,11 @@
+import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{i as t,r as n}from"./react-P2mKXNl2.js";import{t as r}from"./jsx-runtime-DeHZSEgm.js";import{a as i,o as a,s as o}from"./blocks-BkAnc3Iv.js";import{a as s,n as c,r as l}from"./Demos-Bug-P1VL.js";function u(e){let n={h1:`h1`,li:`li`,p:`p`,span:`span`,strong:`strong`,ul:`ul`,...t(),...e.components};return(0,f.jsxs)(f.Fragment,{children:[(0,f.jsx)(i,{title:`Foundations/Accessibility`}),`
+`,(0,f.jsx)(n.h1,{id:`accessibility`,children:`Accessibility`}),`
+`,(0,f.jsx)(n.p,{children:`WCAG 2.2 AA, checked on every story by the gallery's tests: an accessibility violation fails the build.`}),`
+`,(0,f.jsxs)(n.ul,{children:[`
+`,(0,f.jsxs)(n.li,{children:[(0,f.jsx)(n.strong,{children:`44 px targets.`}),` Anything you can tap is at least 44 px tall, small buttons included.`]}),`
+`,(0,f.jsxs)(n.li,{children:[(0,f.jsx)(n.strong,{children:`Visible focus.`}),` The keyboard's focus ring is never removed.`]}),`
+`,(0,f.jsxs)(n.li,{children:[(0,f.jsx)(n.strong,{children:`Never colour alone.`}),` Every up and down has its arrow and sign; every status has its icon.`]}),`
+`,(0,f.jsxs)(n.li,{children:[(0,f.jsx)(n.strong,{children:`Contrast by test.`}),` 4.5 for text and 3 for graphics, in both modes and every skin (see Colour).`]}),`
+`,(0,f.jsxs)(n.li,{children:[(0,f.jsx)(n.strong,{children:`Reduced motion respected`}),`, and nothing that flashes.`]}),`
+`]}),`
+`,(0,f.jsx)(a,{children:(0,f.jsxs)(`div`,{className:`grid gap-5`,children:[(0,f.jsx)(l,{}),(0,f.jsx)(c,{rule:`A pick is right or wrong by its icon, not its colour`,good:(0,f.jsx)(n.span,{className:`flex items-center gap-1.5 font-num text-title font-bold text-gain`,children:`✓ +16`}),bad:(0,f.jsx)(n.span,{className:`font-num text-title font-bold text-gain`,children:`16`})})]})})]})}function d(e={}){let{wrapper:n}={...t(),...e.components};return n?(0,f.jsx)(n,{...e,children:(0,f.jsx)(u,{...e})}):u(e)}var f;function p(){return(p=e((()=>{f=r(),n(),o(),s()})))()}p();export{d as default};
