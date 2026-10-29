@@ -1,0 +1,6 @@
+import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{t}from"./jsx-runtime-DeHZSEgm.js";import{i as n,r}from"./react-P2mKXNl2.js";import{a as i,o as a,s as o}from"./blocks-z0BiTEfb.js";import{n as s,t as c}from"./MotionDemo-Ci26Tn35.js";function l(e){let t={h1:`h1`,p:`p`,...n(),...e.components};return(0,d.jsxs)(d.Fragment,{children:[(0,d.jsx)(i,{title:`Foundations/Motion`}),`
+`,(0,d.jsx)(t.h1,{id:`motion`,children:`Motion`}),`
+`,(0,d.jsx)(t.p,{children:`Motion answers a tap and shows what changed: a lock ticks, a sheet slides, a number counts to its new value. Nothing
+moves on its own, and only the deadline counts down. Tap Lock to see the spring.`}),`
+`,(0,d.jsx)(a,{children:(0,d.jsx)(c,{})}),`
+`,(0,d.jsx)(t.p,{children:`With reduced motion on, every duration becomes 0.01 ms: the tick still lands, without moving.`})]})}function u(e={}){let{wrapper:t}={...n(),...e.components};return t?(0,d.jsx)(t,{...e,children:(0,d.jsx)(l,{...e})}):l(e)}var d;function f(){return(f=e((()=>{d=t(),r(),o(),s()})))()}f();export{u as default};

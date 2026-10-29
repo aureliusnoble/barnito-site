@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{t,zt as n}from"./src-Ca_r4w3v.js";function r(e){let t=i.get(e);if(!t){let r=n.find(t=>t.id===e);if(!r)throw Error(`No moment ${e}`);t=r.load(),i.set(e,t)}return t}var i,a,o;function s(){return(s=e((()=>{t(),i=new Map,a=e=>async()=>({s:await r(e)}),o=(e,t)=>({...e,now:Date.parse(t)})})))()}export{a as i,o as n,r,s as t};

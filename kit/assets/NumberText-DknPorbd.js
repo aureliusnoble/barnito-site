@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{t}from"./jsx-runtime-DeHZSEgm.js";function n({text:e}){return e.split(/((?:(?<![\p{L}\p{N}])[+−-])?\d+(?:[.:]\d+)?)/u).map((e,t)=>t%2==1?(0,r.jsx)(`span`,{className:`font-num`,children:e},t):e)}var r;function i(){return(i=e((()=>{r=t()})))()}export{i as n,n as t};

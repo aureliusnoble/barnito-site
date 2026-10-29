@@ -1,0 +1,6 @@
+import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{t}from"./jsx-runtime-DeHZSEgm.js";import{i as n,r}from"./react-P2mKXNl2.js";import{a as i,o as a,s as o}from"./blocks-z0BiTEfb.js";import{n as s,t as c}from"./IconGrid-CSj7kFyo.js";function l(e){let t={h1:`h1`,p:`p`,...n(),...e.components};return(0,d.jsxs)(d.Fragment,{children:[(0,d.jsx)(i,{title:`Foundations/Icons`}),`
+`,(0,d.jsx)(t.h1,{id:`icons`,children:`Icons`}),`
+`,(0,d.jsx)(t.p,{children:`Lucide's outline icons at a 2 px stroke: 24 px in tiles, 16 to 20 px beside text. An icon takes a short label unless
+its meaning is beyond doubt, and ups and downs are the ▲ and ▼ glyphs, always with a sign. Spicy is the chilli emoji.`}),`
+`,(0,d.jsx)(a,{children:(0,d.jsx)(c,{})}),`
+`,(0,d.jsx)(t.p,{children:`The dashed tiles are football glyphs Lucide doesn't have. They will be drawn to match, on the same grid and stroke.`})]})}function u(e={}){let{wrapper:t}={...n(),...e.components};return t?(0,d.jsx)(t,{...e,children:(0,d.jsx)(l,{...e})}):l(e)}var d;function f(){return(f=e((()=>{d=t(),r(),o(),s()})))()}f();export{u as default};

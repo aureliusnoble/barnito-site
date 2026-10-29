@@ -1,0 +1,5 @@
+import{n as e}from"./rolldown-runtime-DkW27tQK.js";import{t}from"./jsx-runtime-DeHZSEgm.js";import{i as n,r}from"./react-P2mKXNl2.js";import{a as i,o as a,s as o}from"./blocks-z0BiTEfb.js";import{n as s,t as c}from"./SpacingScale-DKqD2-QB.js";function l(e){let t={h1:`h1`,p:`p`,...n(),...e.components};return(0,d.jsxs)(d.Fragment,{children:[(0,d.jsx)(i,{title:`Foundations/Spacing`}),`
+`,(0,d.jsx)(t.h1,{id:`spacing-and-shape`,children:`Spacing and shape`}),`
+`,(0,d.jsx)(t.p,{children:`An 8 px grid with a 16 px gutter. Corners get rounder as things get bigger, and buttons are pills. Cards sit flat on
+the paper; only things that float over the page cast a shadow.`}),`
+`,(0,d.jsx)(a,{children:(0,d.jsx)(c,{})})]})}function u(e={}){let{wrapper:t}={...n(),...e.components};return t?(0,d.jsx)(t,{...e,children:(0,d.jsx)(l,{...e})}):l(e)}var d;function f(){return(f=e((()=>{d=t(),r(),o(),s()})))()}f();export{u as default};
